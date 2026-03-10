@@ -1,0 +1,3 @@
+[submodule "modules/arm_analysis"]
+	path = modules/arm_analysis
+	url = https://github.com/LIGHTRTX/realtime-multi-camera-tracking
